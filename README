@@ -1,0 +1,12 @@
+Programmer: Ian Forsyth
+Last Updated: 11.30.2012
+
+Description:
+	Written in C, this is an implementation of the nearest neighbors algorithm for a 2d 
+	coordinate system between 0 and 1. See code comments for more information
+	and debug output.
+
+
+To Compile:
+	Program compiled with: gcc -g -std=99 -o out quadtree.c -lm
+
