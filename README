@@ -8,5 +8,5 @@ Description:
 
 
 To Compile:
-	Program compiled with: gcc -g -std=99 -o out quadtree.c -lm
+	Program compiled with: gcc -g -std=99 -o out neighbors.c -lm
 
